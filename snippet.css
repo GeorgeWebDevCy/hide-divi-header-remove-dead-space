@@ -1,0 +1,7 @@
+/*start hide divi header so I can use my own global module*/
+#main-header{
+display:none;
+}
+#page-container{padding-top:0px !important;margin-top:0px !important; }
+#main-content .container{padding-top:56px !important;}
+/*end hide divi header so I can use my own global module*/
